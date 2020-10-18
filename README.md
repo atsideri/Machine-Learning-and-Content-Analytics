@@ -17,3 +17,8 @@ Code files:
 - ML_MASTER_TEST.ipynb includes the code for accessing the best trained CNN model in the whole dataset (without splitting in train and validation parts).The first part of the code is the same with the main code file.
 
 report.pdf includes the report describing all the current project end to end. Presentation of target, results, bibliography etc are included. 
+
+The group consists of the below members:
+- Anastasios Pliatsikas
+- Stavros Konstantinos Gardelis
+- Athanasia Eleni Sideri
