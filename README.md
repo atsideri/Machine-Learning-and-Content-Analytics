@@ -14,7 +14,7 @@ Important note: The weights of the best trained CNN Model downloaded differ from
 Code files:
 - Main_code.ipynb includes all the main code from data import, preparation/cleansing, building and running RNN and CNN models as well as evaluation measurements 
 - CNN_parameter_testing.ipynb file was created only for testing the different (hyper-)paremeter values of the CNN model. The first part of the code is the same with the main code file. The testing begins from the «Build Text CNN Model» section.
-- ML_MASTER_TEST.ipynb includes the code for accessing the best trained CNN model in the whole dataset (without splitting in train and validation parts).The first part of the code is the same with the main code file. Further to the "winning" model the jupyter also includes the code for the blind test dataset. The code reads the folder of the testing files and for every file it exports a new file with the same filename and the results of the CNN argument detection per row. The results have uploaded in Microsoft Team's folder.
+- ML_MASTER_TEST.ipynb includes the code for accessing the best trained CNN model in the whole dataset (without splitting in train and validation parts).The first part of the code is the same with the main code file. Further to the "winning" model the jupyter also includes the code for the blind test dataset. The code reads the folder of the testing files and for every file it exports a new file with the same filename and the results of the CNN argument detection per row. The results have beeb uploaded in Microsoft Team's folder.
 
 report.pdf includes the report describing all the current project end to end. Presentation of target, results, bibliography etc are included. 
 
