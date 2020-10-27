@@ -18,6 +18,8 @@ Code files:
 
 report.pdf includes the report describing all the current project end to end. Presentation of target, results, bibliography etc are included. 
 
+mlca_presentation-2.pptx includes the main presentation of the overview of current project with summary of the final results. 
+
 The group consists of the below members:
 - Anastasios Pliatsikas
 - Stavros Konstantinos Gardelis
